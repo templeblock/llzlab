@@ -1,0 +1,2 @@
+SUBDIRS=libllzutils libllzfilter libllzaudio example
+EXTRA_DIST=example/llz_resample/llz_parseopt.h
